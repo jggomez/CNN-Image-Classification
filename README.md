@@ -75,25 +75,3 @@ This visualization helps confirm whether the model is examining relevant feature
 
 * **Juan Guillermo Gómez**
 * Linkedin: [@jggomezt](https://www.linkedin.com/in/jggomezt/)
-
-## License
-
-    Copyright 2025 Juan Guillermo Gómez
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS
-
-**[Aquí puedes añadir un resumen de los resultados que obtuviste]**
-
-  * **Precisión (Accuracy) en el conjunto de validación:** [Ej: 95%]
-  * **Matriz de confusión:** [Puedes pegar una imagen de la matriz de confusión aquí]
-
-## 👨‍💻 Autor
-
-  * **[Tu Nombre]**
